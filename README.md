@@ -5,18 +5,18 @@
 ---
 
 ## 🚀 Core Technologies  
-- **Starknet** v6.11.0 (Scalable L2 blockchain)
+- **Starknet** (Scalable L2 blockchain)
 - **Scaffold Stark** v1.0.0 (Dev toolkit for Starknet apps)  
-- **Cairo** v2.7.0 (Programming language for Starknet)
+- **Cairo** v2.11.4 (Programming language for Starknet)
 - **React + Next.js** v19.1.0 (Frontend framework)  
-- **Node.js** v22.16.0+ (Backend runtime)  
+- **Node.js** v18.17+ (Backend runtime)  
 
 ---
 
 ## 🛠️ Local Development Setup  
 
 ### Prerequisites  
-- Node.js (v22+) LTS 
+- Node.js v18.17+ 
 - Yarn
 - Git  
 
