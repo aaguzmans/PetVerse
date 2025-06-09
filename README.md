@@ -47,7 +47,7 @@ Commit your changes with clear messages.
 Submit a Pull Request with a description of your improvements.
  
 ## 🗨️ Community & Support  
-[![Telegram Chat](https://img.shields.io/badge/Telegram-Join%20our%20Community-blue?style=flat-square&logo=telegram)](https://t.me/petverse_contributors)  
+[![Telegram Chat](https://img.shields.io/badge/Telegram-Join%20our%20Community-blue?style=flat-square&logo=telegram)](https://t.me/PetVerseContributors)  
 
 **For direct support:**  
 ✉️ Contact project maintainers:  
@@ -55,7 +55,7 @@ Submit a Pull Request with a description of your improvements.
 - [@||Andrw|| GS](https://t.me/andrwgs) 
 
 **For general questions:**  
-💬 Ask directly in our [Telegram group](https://t.me/petverse_contributors) - we're happy to help! 
+💬 Ask directly in our [Telegram group](https://t.me/PetVerseContributors) - we're happy to help! 
 
 ## 📄 License  
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)  
