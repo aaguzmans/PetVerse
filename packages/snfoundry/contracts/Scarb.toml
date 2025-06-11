@@ -9,11 +9,15 @@ edition = "2024_07"
 starknet = "2.11.4"
 openzeppelin_access = "1.0.0"
 openzeppelin_token = "1.0.0"
+openzeppelin_introspection = "1.0.0" # new, add in test
+openzeppelin_security= "1.0.0" # new, add in test
+openzeppelin_upgrades = "1.0.0" # new, add in test
 
 [dev-dependencies]
 openzeppelin_utils = "1.0.0"
 openzeppelin_testing = "3.0.0"
 snforge_std = "0.41.0"
+cairo_test = "2.11.4" # new, add in test
 
 [[target.starknet-contract]]
 casm = true # taggle this to `false` to speed up compilation/script tests
