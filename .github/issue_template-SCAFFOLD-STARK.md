@@ -1,3 +1,7 @@
+## 🧩 Context
+Briefly describe the technical or functional background of the issue or request.
+Close #
+
 ## 🎯 Objective
 What is the expected deliverable or result?
 
